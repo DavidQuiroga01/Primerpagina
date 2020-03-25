@@ -1,0 +1,34 @@
+body {
+    background-image:url('../img/Fondo.jpeg') ;
+    background-size: cover;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+p{
+    color: chartreuse;
+}
+h1{
+    text-align: center;
+    color: cornsilk;
+}
+nav{
+    text-align: center;
+}
+h3{
+    font-family: cursive;
+    font-size: medium;
+    color: cornsilk;
+}
+a{
+    color: cornsilk;
+}
+ul{
+    color: cornsilk;
+}
+nav a{
+    background-color: forestgreen;
+}
+img{
+    width: 1150px;
+    height: 800px;
+}
